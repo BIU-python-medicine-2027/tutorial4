@@ -2,7 +2,7 @@
 
 Practice for lecture 4. Work through the ORF notebook and the helper module.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BIU-python-medicine-2027/tutorial4/blob/main/orf.ipynb)
+<a href="https://colab.research.google.com/github/BIU-python-medicine-2027/tutorial4/blob/main/orf.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Files
 
