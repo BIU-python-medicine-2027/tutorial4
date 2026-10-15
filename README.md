@@ -10,6 +10,7 @@ Practice for lecture 4. Work through the ORF notebook and the helper module.
 | --- | --- |
 | `orf.ipynb` | Step-by-step practice |
 | `orf.py` | Functions to implement / try |
+| `orf_solution.py` | Reference solution (peek only after trying) |
 
 Suggested functions: `find_all_starts`, `find_first_in_register_stop`, `all_orfs_range`, `longest_orf`.
 
