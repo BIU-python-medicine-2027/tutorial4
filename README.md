@@ -17,9 +17,23 @@ Suggested functions: `find_all_starts`, `find_first_in_register_stop`, `all_orfs
 ## How to work
 
 1. Open the notebook in Colab (button above) or locally.
-2. Run the cells and experiment in `orf.py` as needed.
+2. After each function, run the **self-check** cell below it (same cases as the autograder, with expected / got / hint).
+3. Copy your finished functions into `orf.py` and **Commit changes** to see the autograding score (10 points, practice only).
 
-No commit and no submission are required for this tutorial.
+## Grading — 10 points
+
+| Check | Points |
+| --- | ---: |
+| `find_all_starts` — no ATG | 1 |
+| `find_all_starts` — several ATG | 1 |
+| `find_all_starts` — mixed frames / upper-case | 1 |
+| `find_first_in_register_stop` — no in-frame stop | 1 |
+| `find_first_in_register_stop` — in-frame stop | 1 |
+| `all_orfs_range` — no ORFs | 1 |
+| `all_orfs_range` — simple ORFs | 1 |
+| `all_orfs_range` — several frames | 1 |
+| `longest_orf` — no ORF | 1 |
+| `longest_orf` — longest of several (case-insensitive input) | 1 |
 
 ## Optional: keep your changes in Google Drive
 
